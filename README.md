@@ -17,7 +17,7 @@
 - 📫 If you're interested in working together, or just want to chat about tech, you can reach me through any of the following channels:
 
   Email: [kariuki.victor@outlook.com](mailto:kariuki.victor@outlook.com)
-  LinkedIn: linkedin.com/in/kvictor
+  LinkedIn: [linkedin.com/in/kvictor](https://www.linkedin.com/in/kvictor)
   Twitter: [@Don_VKariuki](https://twitter.com/Don_VKariuki)
   
 I'm always open to discussing new opportunities and ideas, so don't hesitate to reach out!
