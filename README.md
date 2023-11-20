@@ -1,9 +1,10 @@
-<div style="text-align: center;">
-# 👋 Hi, [![](https://visitcount.itsvg.in/api?id=victorKariuki&icon=6&color=3)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kvictor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Don_VKariuki) 
-![](https://github-readme-stats.vercel.app/api?username=victorKariuki&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=victorKariuki&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorKariuki&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-# 💫 About Me:
-- 👋 Hi, I’m @victorKariuki<br><br>- I'm a software developer with a passion for building applications that are not only functional but also easy to use. I have a strong background in web development and am always looking for ways to improve my skills.<br><br>- 👀 I’m interested in a wide range of technologies, but some of my favorites include:<br>  JavaScript and its frameworks (such as React and Angular)<br>  Python and its frameworks (such as Django and Flask)<br>  Cloud computing platforms (such as AWS and Azure)<br>  <br>- 🌱 I’m currently learning machine learning and data science. I'm particularly interested in using these technologies to build intelligent applications that can make better decisions based on data.<br><br>- 💞️ I’m looking to collaborate on new and interesting projects to work on. Some areas I'm particularly interested in collaborating on include:<br>  Building web applications with modern technologies<br>  Developing machine learning models for real-world applications<br>  Working on open source projects to give back to the community<br>  <br>- 📫 If you're interested in working together, or just want to chat about tech, you can reach me through any of the following channels:<br><br>  
+<div style="text-align: center;" align="center" dir="auto">
+  <a href="https://linkedin.com/in/kvictor"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/Don_VKariuki"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://visitcount.itsvg.in/api?id=victorKariuki&icon=6&color=3"><img src="https://visitcount.itsvg.in/api?id=victorKariuki&icon=6&color=3" alt="Visit Count"></a></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=victorKariuki&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorKariuki&theme=github-dark&hide_border=true" alt="GitHub Streak Stats"></br>
+  
 </div>
+<h1 style="text-align: center;" align="center" dir="auto">💫 About Me:</h1>
+<p>I'm a software developer passionate about crafting user-friendly and functional applications, especially in web development. 👀 My tech interests span JavaScript (React, Angular), Python (Django, Flask), and cloud platforms (AWS, Azure). 🌱 Currently delving into machine learning and data science to create smarter, data-driven applications. 💞️ Seeking collaborations in modern web app development, real-world machine learning models, and open-source projects for community contributions.</p>
