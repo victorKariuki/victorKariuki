@@ -2,7 +2,7 @@
   <a href="https://linkedin.com/in/kvictor"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/Don_VKariuki"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://visitcount.itsvg.in/api?id=victorKariuki&icon=6&color=3"><img src="https://visitcount.itsvg.in/api?id=victorKariuki&icon=6&color=3" alt="Visit Count"></a></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=victorKariuki&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorKariuki&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorKariuki&theme=github-dark&hide_border=true" alt="GitHub Streak Stats"></br>
   
 </div>
