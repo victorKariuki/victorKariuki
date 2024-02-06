@@ -9,4 +9,9 @@
   
 </div>
 
-<p style="text-align: center;" align="center" dir="auto">I'm a software developer passionate about crafting user-friendly and functional applications, especially in web development. 👀 My tech interests span JavaScript (React, Angular), Python (Django, Flask), and cloud platforms (AWS, Azure). 🌱 Currently delving into machine learning and data science to create smarter, data-driven applications. 💞️ Seeking collaborations in modern web app development, real-world machine learning models, and open-source projects for community contributions.</p>
+<p style="text-align: center;" align="center" dir="auto">
+  I'm a software developer passionate about crafting user-friendly and functional applications, especially in web development. 
+    <p style="text-align: center;" align="center" dir="auto">🌱 Currently delving into machine learning and data science to create smarter, data-driven applications. </p>
+    <p style="text-align: center;" align="center" dir="auto"> 👀 My tech interests span JavaScript (React, Angular), Python (Django, Flask), and cloud platforms (AWS, Azure). </p>
+    <p style="text-align: center;" align="center" dir="auto">💞️ Seeking collaborations in modern web app development, real-world machine learning models, and open-source projects for community contributions.</p>
+</p>
