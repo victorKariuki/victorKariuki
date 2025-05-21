@@ -19,6 +19,7 @@
   <a href="https://victorkariuki.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23FF5722.svg?logo=firefox&logoColor=white" alt="Website" />
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=victorKariuki.visitor-badge" alt="🌍 Visitors"/>
 </div>
 
 ---
@@ -84,17 +85,19 @@
     <h4>victorKariuki</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=victorKariuki&show_icons=true&theme=dark&count_private=true&border_radius=8" alt="Victor's GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorKariuki&theme=dark&border_radius=8" alt="Victor's GitHub Streak" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorKariuki&layout=donut&theme=dark"/>
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=victorKariuki&theme=darkhub&no-frame=true&column=12"/>
   </div>
+
 </div>
 
----
 
 ## 🌱 What I’m Learning
 
 <ul>
   <li>Deepening mastery in <strong>neural network architectures</strong> and <strong>unsupervised learning</strong>.</li>
-  <li>Exploring <strong>serverless</strong> & <strong>event-driven</strong> cloud-native patterns.</li>
-  <li>Advancing in <strong>data engineering</strong> pipelines with real-time streaming.</li>
+<li>Exploring <strong>serverless</strong> & <strong>event-driven</strong> cloud-native patterns.</li>
+<li>Advancing in <strong>data engineering</strong> pipelines with real-time streaming.</li>
 </ul>
 
 ---
