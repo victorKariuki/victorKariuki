@@ -6,7 +6,7 @@
  |____/ \___/|_| \_|   \____| 
 -->
 
-<h1 align="center" style="font-size: 3rem; margin-bottom: 0.2em;">✨ Victor Kariuki < Don Gachewa > ✨</h1>
+<h1 align="center" style="font-size: 3rem; margin-bottom: 0.2em;">✨ Victor Kariuki &lt;Don Gachewa&gt; ✨</h1>
 <p align="center" style="font-style: italic; color: #888;">“Crafting code with purpose, weaving data into dreams.”</p>
 
 <div align="center" style="margin: 1.5em 0;">
