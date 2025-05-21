@@ -86,7 +86,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=victorKariuki&show_icons=true&theme=dark&count_private=true&border_radius=8" alt="Victor's GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorKariuki&theme=dark&border_radius=8" alt="Victor's GitHub Streak" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorKariuki&layout=donut&theme=dark"/>
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=victorKariuki&theme=darkhub&no-frame=true&column=12"/>
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=victorKariuki&theme=darkhub&no-frame=true&column=8"/>
   </div>
 
 </div>
