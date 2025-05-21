@@ -8,7 +8,7 @@
   <a href="https://twitter.com/Don_VKariuki" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://victorkariuki.github.com" target="_blank">
+  <a href="https://victorkariuki.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23FF5722.svg?logo=firefox&logoColor=white" alt="Website" />
   </a>
 </div>
