@@ -27,7 +27,7 @@
 ## 💫 About Me
 
 <p style="line-height: 1.6; text-align: justify;">
-  I am a lead software engineer who believes that every line of code is a brushstroke in a grand digital canvas. My journey spans crafting intuitive web experiences and architecting robust back-end services. In the silence between deployments, I wander the realms of machine learning and data science, seeking patterns hidden in numbers and transforming them into insight.
+  I am a software engineer who believes that every line of code is a brushstroke in a grand digital canvas. My journey spans crafting intuitive web experiences and architecting robust back-end services. In the silence between deployments, I wander the realms of machine learning and data science, seeking patterns hidden in numbers and transforming them into insight.
 </p>
 
 ---
