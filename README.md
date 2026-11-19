@@ -37,7 +37,7 @@
 </blockquote>
 
 <p>
-  These days, we just ship what we dream up and what clients pay us to build. AI still can't do systems thinking. Until then, I remain the proud owner of this GitHub account. Eventually, I become a subsistence farmer.
+  These days, we just ship what we dream up and what clients pay us to build. AI still can't do systems thinking. Until then, I remain the proud owner of this GitHub account. Eventually, I become a subsistence farmer. Did not know wandering into machine learning was an empty pandora box; someone beat me to it.
 </p>
 
 ## GitHub Activity
