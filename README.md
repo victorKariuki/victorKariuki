@@ -43,10 +43,10 @@
 ## GitHub Activity
 
 <div align="center">
-  <h4>victorKariuki</h4>
+  <h4>victorKariuki + Anthropic + OpenAI + Google</h4>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=victorKariuki&theme=dark&border_radius=8"
-    alt="Victor's GitHub Streak"
+    alt="Victor's GitHub Streak not victor's alone anymore"
   >
 </div>
 
