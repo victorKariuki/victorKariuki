@@ -46,7 +46,7 @@
 ## Let’s Collaborate
 
 <p style="line-height: 1.6;">
-  Whether it’s building a sleek web interface, deploying a machine learning model, or contributing to open-source ecosystems, I welcome opportunities that challenge conventions and inspire growth. Feel free to connect, and let’s turn ideas into reality.
+  Hahaha. what a naive boy who wrote this. "Whether it’s building a sleek web interface, deploying a machine learning model, or contributing to open-source ecosystems, I welcome opportunities that challenge conventions and inspire growth. Feel free to connect, and let’s turn ideas into reality."
 </p>
 
 <div align="center" style="margin-top: 1em;">
@@ -64,5 +64,5 @@
 ---
 
 <p align="center" style="font-size: 0.9rem; color: #aaa;">
-  Crafted with passion and poetry in code · © 2025 Don Gachewa
+  "Crafted with passion and poetry in code" note: he only poetry we read is The Canon's Yeoman's Tale· © 2025 Don Gachewa
 </p>
