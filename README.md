@@ -7,7 +7,7 @@
 -->
 
 <h1 align="center" style="font-size: 3rem; margin-bottom: 0.2em;">Victor Kariuki &lt;Don Gachewa&gt;</h1>
-<p align="center" style="font-style: italic; color: #888;">“Crafting code with purpose, weaving data into dreams.”</p>
+<p align="center" style="font-style: italic; color: #888;">Pre-AI we “Crafting code with purpose, weaving data into dreams.” now we babysit agents waiting for them to become rebellious teens</p>
 
 <div align="center" style="margin: 1.5em 0;">
   <a href="https://linkedin.com/in/kvictor" target="_blank">
