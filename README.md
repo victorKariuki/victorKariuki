@@ -27,7 +27,7 @@
 <p style="line-height: 1.6; text-align: justify;">
   NB: this was pre AI "I am a software engineer who believes that every line of code is a brushstroke in a grand digital canvas. My journey spans crafting intuitive web experiences and architecting robust back-end services. In the silence between deployments, I wander the realms of machine learning and data science, seeking patterns hidden in numbers and transforming them into insight."
 
-  Now We just ship what we dream and what our clients pay us because AI still can't do systems thinking; till then i am the proud owner of this account untill i become a subsitence farmer can't compete with the automation there too.
+  Now We just ship what we dream and what clients pay us because AI still can't do systems thinking; till then i am the proud owner of this account, Then i become a subsitence farmer.
 </p>
 
 ## GitHub Activity
